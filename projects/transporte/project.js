@@ -33,12 +33,12 @@ export default {
       K(14.4, { tx: 25.0, ty: 2.4, tz: 0.0, yaw: -0.25, pitch: 0.42, dist: 32 }, 'sine.inOut'),
       K(17.2, { tx: 40.0, ty: 4.1, tz: 0.0, yaw: 0.55, pitch: 0.38, dist: 37, fw: 1 }, 'sine.inOut'),
       K(19.4, { tx: 60.0, ty: 4.2, tz: 0.0, yaw: 0.95, pitch: 0.42, dist: 37, fw: 1 }, 'sine.inOut'),
-      K(20.8, { tx: 70.0, ty: 3.0, tz: 0.0, yaw: 0.6, pitch: 1.05, dist: 21, fw: 1 }, 'power2.inOut'),
+      K(20.8, { tx: 70.0, ty: 3.0, tz: 0.0, yaw: 0.6, pitch: 1.05, dist: 27, fw: 1 }, 'power2.inOut'),
       K(22.6, { tx: 90.0, ty: 3.4, tz: 0.0, yaw: 0.3, pitch: 0.55, dist: 30, fw: 1 }, 'power2.inOut'),
       K(25.3, { tx: 118.0, ty: 3.0, tz: 0.0, yaw: 0.65, pitch: 0.42, dist: 34, fw: 1 }, 'sine.inOut'),
       K(27.0, { tx: 124.5, ty: 2.4, tz: 2.0, yaw: 0.55, pitch: 0.3, dist: 23, fw: 0 }, 'power2.inOut'),
       K(30.0, { tx: 126.0, ty: 2.8, tz: 0.5, yaw: 0.95, pitch: 0.38, dist: 25, fw: 0 }, 'sine.inOut'),
-      K(32.6, { tx: 154.0, ty: 3.0, tz: 0.0, yaw: 0.75, pitch: 0.5, dist: 46, fw: 0 }, 'power2.inOut'),
+      K(32.4, { tx: 158.0, ty: 2.0, tz: 0.0, yaw: 0.75, pitch: 0.45, dist: 50, fw: 0 }, 'power2.inOut'),
       K(35.2, { tx: CLASS_X, ty: 2.0, tz: -0.3, yaw: 0.85, pitch: 0.5, dist: 33, fw: 0 }, 'power2.inOut'),
       K(38.0, { tx: CLASS_X + 0.9, ty: 2.3, tz: -2.6, yaw: 0.45, pitch: 0.3, dist: 29, fw: 0 }, 'sine.inOut'),
       K(41.2, { tx: CLASS_X - 0.5, ty: 1.3, tz: 1.8, yaw: 1.05, pitch: 0.45, dist: 17, fw: 0 }, 'sine.inOut'),
@@ -73,8 +73,8 @@ export default {
     tl.fromTo(S.magA, { k: 0 }, { k: 1, duration: 0.5, ease: 'back.out(2)', immediateRender: false }, 28.4); tl.to(S.magA, { k: 0, duration: 0.3 }, 32.2);
     S.checkA.k.forEach((_, i) => { const t0 = 29.0 + i * 0.35; const o = S.checkA; const proxy = { k: 0 }; tl.fromTo(proxy, { k: 0 }, { k: 1, duration: 0.45, ease: 'back.out(2.4)', immediateRender: false, onUpdate: () => { o.k[i] = proxy.k; } }, t0); tl.to(proxy, { k: 0, duration: 0.3, onUpdate: () => { o.k[i] = proxy.k; } }, 33.0); });
     // Escena 5: aula se construye
-    tl.fromTo(S.roomY, { y: -30 }, { y: 0, duration: 2.6, ease: 'power3.out', immediateRender: false }, 31.6);
-    tl.fromTo(S.classK, { k: 0 }, { k: 1, duration: 3.2, ease: 'none', immediateRender: false }, 32.0);
+    tl.fromTo(S.roomY, { y: -30 }, { y: 0, duration: 2.6, ease: 'power3.out', immediateRender: false }, 30.4);
+    tl.fromTo(S.classK, { k: 0 }, { k: 1, duration: 3.2, ease: 'none', immediateRender: false }, 31.2);
 
     // modo previsualización de capas
     ctx.cfg = cfg;
