@@ -1,0 +1,16 @@
+{
+  "id": "transporte", "fps": 30, "width": 1080, "height": 1920, "duration": 50,
+  "voice": { "s1": 0.5, "s2": 6.7, "s3": 14.6, "s4": 25.5, "s5": 35.5, "s6": 45.6 },
+  "titles": [
+    { "start": 0.45, "end": 5.9, "lines": ["¿EL *BIENESTAR*", "*ANIMAL* TERMINA", "EN LA GRANJA?"] },
+    { "start": 6.6, "end": 12.8, "lines": ["EL *TRANSPORTE*", "TAMBIÉN IMPORTA."] },
+    { "start": 14.5, "end": 23.8, "lines": ["*PREPARACIÓN* ·", "*CONDICIONES* ·", "*BIENESTAR.*"] },
+    { "start": 25.4, "end": 33.6, "lines": ["LA *FORMACIÓN*", "ES FUNDAMENTAL."] },
+    { "start": 35.4, "end": 44.3, "lines": ["FÓRMATE", "CON *INOKUO.*"] }
+  ],
+  "brand": {
+    "start": 45.2, "name": "INOKUO", "sub": "FORMACIÓN",
+    "tagline": "Formación especializada para profesionales del sector ganadero.",
+    "web": "", "cta": "", "logo": "assets/brand/logo.png"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+render/_frames/
+__pycache__/
+*.pyc
+assets/voice-models/
+audio/music.wav
+audio/sfx.wav
+audio/voice.wav

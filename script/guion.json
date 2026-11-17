@@ -1,0 +1,11 @@
+{
+ "title": "El bienestar animal en el transporte",
+ "lines": [
+  {"id":"s1","scene":1,"text":"¿Sabías que el bienestar de un animal no depende solamente de cómo vive en la granja?","hl":["bienestar"],"title":"¿EL BIENESTAR ANIMAL TERMINA EN LA GRANJA?"},
+  {"id":"s2","scene":2,"text":"También importa lo que sucede cuando llega el momento de transportarlo.","hl":["transportarlo"],"title":"EL TRANSPORTE TAMBIÉN IMPORTA."},
+  {"id":"s3","scene":3,"text":"La preparación del viaje, las condiciones del transporte y la atención a las necesidades de los animales son aspectos fundamentales.","hl":["preparación","condiciones","atención"],"title":"PREPARACIÓN · CONDICIONES · BIENESTAR."},
+  {"id":"s4","scene":4,"text":"Por eso, las personas que trabajan en el transporte de animales necesitan conocer cómo actuar y qué requisitos deben cumplir.","hl":["conocer","requisitos"],"title":"LA FORMACIÓN ES FUNDAMENTAL."},
+  {"id":"s5","scene":5,"text":"En INOKUO te ayudamos a adquirir los conocimientos necesarios con formación especializada en bienestar animal durante el transporte.","hl":["INOKUO","formación","especializada"],"title":"FÓRMATE CON INOKUO."},
+  {"id":"s6","scene":6,"text":"INOKUO Formación. Conocimiento para avanzar.","hl":["INOKUO","Conocimiento"],"title":"INOKUO FORMACIÓN"}
+ ]
+}

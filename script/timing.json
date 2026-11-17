@@ -1,0 +1,679 @@
+{
+ "cues": [
+  {
+   "line": "s1",
+   "start": 0.51,
+   "end": 2.38,
+   "html": "¿Sabías que el <span class=\"hl\">bienestar</span> de un animal no",
+   "text": "¿Sabías que el bienestar de un animal no"
+  },
+  {
+   "line": "s1",
+   "start": 2.38,
+   "end": 4.107,
+   "html": "depende solamente de cómo vive en la",
+   "text": "depende solamente de cómo vive en la"
+  },
+  {
+   "line": "s1",
+   "start": 4.107,
+   "end": 5.033,
+   "html": "granja?",
+   "text": "granja?"
+  },
+  {
+   "line": "s2",
+   "start": 6.71,
+   "end": 8.294,
+   "html": "También importa lo que sucede cuando",
+   "text": "También importa lo que sucede cuando"
+  },
+  {
+   "line": "s2",
+   "start": 8.294,
+   "end": 10.339,
+   "html": "llega el momento de <span class=\"hl\">transportarlo.</span>",
+   "text": "llega el momento de transportarlo."
+  },
+  {
+   "line": "s3",
+   "start": 14.61,
+   "end": 16.066,
+   "html": "La <span class=\"hl\">preparación</span> del viaje,",
+   "text": "La preparación del viaje,"
+  },
+  {
+   "line": "s3",
+   "start": 16.066,
+   "end": 17.98,
+   "html": "las <span class=\"hl\">condiciones</span> del transporte y la",
+   "text": "las condiciones del transporte y la"
+  },
+  {
+   "line": "s3",
+   "start": 17.98,
+   "end": 19.791,
+   "html": "<span class=\"hl\">atención</span> a las necesidades de los",
+   "text": "atención a las necesidades de los"
+  },
+  {
+   "line": "s3",
+   "start": 19.791,
+   "end": 22.303,
+   "html": "animales son aspectos fundamentales.",
+   "text": "animales son aspectos fundamentales."
+  },
+  {
+   "line": "s4",
+   "start": 25.51,
+   "end": 27.69,
+   "html": "Por eso, las personas que trabajan en el",
+   "text": "Por eso, las personas que trabajan en el"
+  },
+  {
+   "line": "s4",
+   "start": 27.69,
+   "end": 29.767,
+   "html": "transporte de animales necesitan <span class=\"hl\">conocer</span>",
+   "text": "transporte de animales necesitan conocer"
+  },
+  {
+   "line": "s4",
+   "start": 29.767,
+   "end": 31.557,
+   "html": "cómo actuar y qué <span class=\"hl\">requisitos</span> deben",
+   "text": "cómo actuar y qué requisitos deben"
+  },
+  {
+   "line": "s4",
+   "start": 31.557,
+   "end": 32.576,
+   "html": "cumplir.",
+   "text": "cumplir."
+  },
+  {
+   "line": "s5",
+   "start": 35.51,
+   "end": 37.377,
+   "html": "En <span class=\"hl\">INOKUO</span> te ayudamos a adquirir los",
+   "text": "En INOKUO te ayudamos a adquirir los"
+  },
+  {
+   "line": "s5",
+   "start": 37.377,
+   "end": 39.312,
+   "html": "conocimientos necesarios con <span class=\"hl\">formación</span>",
+   "text": "conocimientos necesarios con formación"
+  },
+  {
+   "line": "s5",
+   "start": 39.312,
+   "end": 41.005,
+   "html": "<span class=\"hl\">especializada</span> en bienestar animal",
+   "text": "especializada en bienestar animal"
+  },
+  {
+   "line": "s5",
+   "start": 41.005,
+   "end": 42.715,
+   "html": "durante el transporte.",
+   "text": "durante el transporte."
+  },
+  {
+   "line": "s6",
+   "start": 45.61,
+   "end": 46.687,
+   "html": "<span class=\"hl\">INOKUO</span> Formación.",
+   "text": "INOKUO Formación."
+  },
+  {
+   "line": "s6",
+   "start": 46.687,
+   "end": 48.752,
+   "html": "<span class=\"hl\">Conocimiento</span> para avanzar.",
+   "text": "Conocimiento para avanzar."
+  }
+ ],
+ "words": [
+  {
+   "w": "¿Sabías",
+   "start": 0.55,
+   "end": 0.8737312583896435,
+   "line": "s1"
+  },
+  {
+   "w": "que",
+   "start": 0.8737312583896435,
+   "end": 1.062574492450269,
+   "line": "s1"
+  },
+  {
+   "w": "el",
+   "start": 1.062574492450269,
+   "end": 1.206455051734555,
+   "line": "s1"
+  },
+  {
+   "w": "bienestar",
+   "start": 1.206455051734555,
+   "end": 1.6650743344532164,
+   "line": "s1"
+  },
+  {
+   "w": "de",
+   "start": 1.6650743344532164,
+   "end": 1.8089548937375024,
+   "line": "s1"
+  },
+  {
+   "w": "un",
+   "start": 1.8089548937375024,
+   "end": 1.9528354530217884,
+   "line": "s1"
+  },
+  {
+   "w": "animal",
+   "start": 1.9528354530217884,
+   "end": 2.276566711411432,
+   "line": "s1"
+  },
+  {
+   "w": "no",
+   "start": 2.276566711411432,
+   "end": 2.420447270695718,
+   "line": "s1"
+  },
+  {
+   "w": "depende",
+   "start": 2.420447270695718,
+   "end": 2.7891412038617007,
+   "line": "s1"
+  },
+  {
+   "w": "solamente",
+   "start": 2.7891412038617007,
+   "end": 3.247760486580362,
+   "line": "s1"
+  },
+  {
+   "w": "de",
+   "start": 3.247760486580362,
+   "end": 3.391641045864649,
+   "line": "s1"
+  },
+  {
+   "w": "cómo",
+   "start": 3.391641045864649,
+   "end": 3.625446954701614,
+   "line": "s1"
+  },
+  {
+   "w": "vive",
+   "start": 3.625446954701614,
+   "end": 3.859252863538578,
+   "line": "s1"
+  },
+  {
+   "w": "en",
+   "start": 3.859252863538578,
+   "end": 4.003133422822864,
+   "line": "s1"
+  },
+  {
+   "w": "la",
+   "start": 4.003133422822864,
+   "end": 4.1470139821071506,
+   "line": "s1"
+  },
+  {
+   "w": "granja?",
+   "start": 4.1470139821071506,
+   "end": 4.583151927437642,
+   "line": "s1"
+  },
+  {
+   "w": "También",
+   "start": 6.75,
+   "end": 7.090043674008573,
+   "line": "s2"
+  },
+  {
+   "w": "importa",
+   "start": 7.090043674008573,
+   "end": 7.430087348017146,
+   "line": "s2"
+  },
+  {
+   "w": "lo",
+   "start": 7.430087348017146,
+   "end": 7.562787318361955,
+   "line": "s2"
+  },
+  {
+   "w": "que",
+   "start": 7.562787318361955,
+   "end": 7.736956029439517,
+   "line": "s2"
+  },
+  {
+   "w": "sucede",
+   "start": 7.736956029439517,
+   "end": 8.035530962715336,
+   "line": "s2"
+  },
+  {
+   "w": "cuando",
+   "start": 8.035530962715336,
+   "end": 8.334105895991158,
+   "line": "s2"
+  },
+  {
+   "w": "llega",
+   "start": 8.334105895991158,
+   "end": 8.591212088534224,
+   "line": "s2"
+  },
+  {
+   "w": "el",
+   "start": 8.591212088534224,
+   "end": 8.723912058879034,
+   "line": "s2"
+  },
+  {
+   "w": "momento",
+   "start": 8.723912058879034,
+   "end": 9.063955732887607,
+   "line": "s2"
+  },
+  {
+   "w": "de",
+   "start": 9.063955732887607,
+   "end": 9.196655703232416,
+   "line": "s2"
+  },
+  {
+   "w": "transportarlo.",
+   "start": 9.196655703232416,
+   "end": 9.889183673469388,
+   "line": "s2"
+  },
+  {
+   "w": "La",
+   "start": 14.65,
+   "end": 14.814632588273405,
+   "line": "s3"
+  },
+  {
+   "w": "preparación",
+   "start": 14.814632588273405,
+   "end": 15.44229433106576,
+   "line": "s3"
+  },
+  {
+   "w": "del",
+   "start": 15.44229433106576,
+   "end": 15.658374603174604,
+   "line": "s3"
+  },
+  {
+   "w": "viaje,",
+   "start": 15.658374603174604,
+   "end": 16.105969452542922,
+   "line": "s3"
+  },
+  {
+   "w": "las",
+   "start": 16.105969452542922,
+   "end": 16.322049724651766,
+   "line": "s3"
+  },
+  {
+   "w": "condiciones",
+   "start": 16.322049724651766,
+   "end": 16.94971146744412,
+   "line": "s3"
+  },
+  {
+   "w": "del",
+   "start": 16.94971146744412,
+   "end": 17.165791739552965,
+   "line": "s3"
+  },
+  {
+   "w": "transporte",
+   "start": 17.165791739552965,
+   "end": 17.74200579850988,
+   "line": "s3"
+  },
+  {
+   "w": "y",
+   "start": 17.74200579850988,
+   "end": 17.855190702947848,
+   "line": "s3"
+  },
+  {
+   "w": "la",
+   "start": 17.855190702947848,
+   "end": 18.01982329122125,
+   "line": "s3"
+  },
+  {
+   "w": "atención",
+   "start": 18.01982329122125,
+   "end": 18.49314198250729,
+   "line": "s3"
+  },
+  {
+   "w": "a",
+   "start": 18.49314198250729,
+   "end": 18.606326886945254,
+   "line": "s3"
+  },
+  {
+   "w": "las",
+   "start": 18.606326886945254,
+   "end": 18.822407159054098,
+   "line": "s3"
+  },
+  {
+   "w": "necesidades",
+   "start": 18.822407159054098,
+   "end": 19.450068901846453,
+   "line": "s3"
+  },
+  {
+   "w": "de",
+   "start": 19.450068901846453,
+   "end": 19.61470149011986,
+   "line": "s3"
+  },
+  {
+   "w": "los",
+   "start": 19.61470149011986,
+   "end": 19.830781762228703,
+   "line": "s3"
+  },
+  {
+   "w": "animales",
+   "start": 19.830781762228703,
+   "end": 20.304100453514742,
+   "line": "s3"
+  },
+  {
+   "w": "son",
+   "start": 20.304100453514742,
+   "end": 20.520180725623582,
+   "line": "s3"
+  },
+  {
+   "w": "aspectos",
+   "start": 20.520180725623582,
+   "end": 20.99349941690962,
+   "line": "s3"
+  },
+  {
+   "w": "fundamentales.",
+   "start": 20.99349941690962,
+   "end": 21.85267573696145,
+   "line": "s3"
+  },
+  {
+   "w": "Por",
+   "start": 25.55,
+   "end": 25.75765485141425,
+   "line": "s4"
+  },
+  {
+   "w": "eso,",
+   "start": 25.75765485141425,
+   "end": 26.088913781051268,
+   "line": "s4"
+  },
+  {
+   "w": "las",
+   "start": 26.088913781051268,
+   "end": 26.29656863246552,
+   "line": "s4"
+  },
+  {
+   "w": "personas",
+   "start": 26.29656863246552,
+   "end": 26.751431640325304,
+   "line": "s4"
+  },
+  {
+   "w": "que",
+   "start": 26.751431640325304,
+   "end": 26.959086491739555,
+   "line": "s4"
+  },
+  {
+   "w": "trabajan",
+   "start": 26.959086491739555,
+   "end": 27.41394949959934,
+   "line": "s4"
+  },
+  {
+   "w": "en",
+   "start": 27.41394949959934,
+   "end": 27.57216271972448,
+   "line": "s4"
+  },
+  {
+   "w": "el",
+   "start": 27.57216271972448,
+   "end": 27.730375939849626,
+   "line": "s4"
+  },
+  {
+   "w": "transporte",
+   "start": 27.730375939849626,
+   "end": 28.284122210287624,
+   "line": "s4"
+  },
+  {
+   "w": "de",
+   "start": 28.284122210287624,
+   "end": 28.44233543041277,
+   "line": "s4"
+  },
+  {
+   "w": "animales",
+   "start": 28.44233543041277,
+   "end": 28.897198438272554,
+   "line": "s4"
+  },
+  {
+   "w": "necesitan",
+   "start": 28.897198438272554,
+   "end": 29.401503077421445,
+   "line": "s4"
+  },
+  {
+   "w": "conocer",
+   "start": 29.401503077421445,
+   "end": 29.806924453992124,
+   "line": "s4"
+  },
+  {
+   "w": "cómo",
+   "start": 29.806924453992124,
+   "end": 30.06402093669548,
+   "line": "s4"
+  },
+  {
+   "w": "actuar",
+   "start": 30.06402093669548,
+   "end": 30.42000068197705,
+   "line": "s4"
+  },
+  {
+   "w": "y",
+   "start": 30.42000068197705,
+   "end": 30.52877227081309,
+   "line": "s4"
+  },
+  {
+   "w": "qué",
+   "start": 30.52877227081309,
+   "end": 30.73642712222734,
+   "line": "s4"
+  },
+  {
+   "w": "requisitos",
+   "start": 30.73642712222734,
+   "end": 31.290173392665338,
+   "line": "s4"
+  },
+  {
+   "w": "deben",
+   "start": 31.290173392665338,
+   "end": 31.596711506657805,
+   "line": "s4"
+  },
+  {
+   "w": "cumplir.",
+   "start": 31.596711506657805,
+   "end": 32.125736961451246,
+   "line": "s4"
+  },
+  {
+   "w": "En",
+   "start": 35.55,
+   "end": 35.70559870677694,
+   "line": "s5"
+  },
+  {
+   "w": "INOKUO",
+   "start": 35.70559870677694,
+   "end": 36.05569579702506,
+   "line": "s5"
+  },
+  {
+   "w": "te",
+   "start": 36.05569579702506,
+   "end": 36.211294503802,
+   "line": "s5"
+  },
+  {
+   "w": "ayudamos",
+   "start": 36.211294503802,
+   "end": 36.65864078578571,
+   "line": "s5"
+  },
+  {
+   "w": "a",
+   "start": 36.65864078578571,
+   "end": 36.765614896694856,
+   "line": "s5"
+  },
+  {
+   "w": "adquirir",
+   "start": 36.765614896694856,
+   "end": 37.21296117867856,
+   "line": "s5"
+  },
+  {
+   "w": "los",
+   "start": 37.21296117867856,
+   "end": 37.417184481323304,
+   "line": "s5"
+  },
+  {
+   "w": "conocimientos",
+   "start": 37.417184481323304,
+   "end": 38.10765374264598,
+   "line": "s5"
+  },
+  {
+   "w": "necesarios",
+   "start": 38.10765374264598,
+   "end": 38.65224921636528,
+   "line": "s5"
+  },
+  {
+   "w": "con",
+   "start": 38.65224921636528,
+   "end": 38.85647251901001,
+   "line": "s5"
+  },
+  {
+   "w": "formación",
+   "start": 38.85647251901001,
+   "end": 39.35244339686152,
+   "line": "s5"
+  },
+  {
+   "w": "especializada",
+   "start": 39.35244339686152,
+   "end": 40.0429126581842,
+   "line": "s5"
+  },
+  {
+   "w": "en",
+   "start": 40.0429126581842,
+   "end": 40.19851136496114,
+   "line": "s5"
+  },
+  {
+   "w": "bienestar",
+   "start": 40.19851136496114,
+   "end": 40.69448224281264,
+   "line": "s5"
+  },
+  {
+   "w": "animal",
+   "start": 40.69448224281264,
+   "end": 41.04457933306077,
+   "line": "s5"
+  },
+  {
+   "w": "durante",
+   "start": 41.04457933306077,
+   "end": 41.44330101917668,
+   "line": "s5"
+  },
+  {
+   "w": "el",
+   "start": 41.44330101917668,
+   "end": 41.59889972595362,
+   "line": "s5"
+  },
+  {
+   "w": "transporte.",
+   "start": 41.59889972595362,
+   "end": 42.2650566893424,
+   "line": "s5"
+  },
+  {
+   "w": "INOKUO",
+   "start": 45.65,
+   "end": 46.03961765930862,
+   "line": "s6"
+  },
+  {
+   "w": "Formación.",
+   "start": 46.03961765930862,
+   "end": 46.726859919477995,
+   "line": "s6"
+  },
+  {
+   "w": "Conocimiento",
+   "start": 46.726859919477995,
+   "end": 47.4411589615438,
+   "line": "s6"
+  },
+  {
+   "w": "para",
+   "start": 47.4411589615438,
+   "end": 47.72254949326669,
+   "line": "s6"
+  },
+  {
+   "w": "avanzar.",
+   "start": 47.72254949326669,
+   "end": 48.30156462585034,
+   "line": "s6"
+  }
+ ]
+}

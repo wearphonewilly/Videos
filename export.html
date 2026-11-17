@@ -1,0 +1,21 @@
+<!doctype html><meta charset="utf-8"><title>export</title>
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js","three/addons/":"/node_modules/three/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFExporter } from 'three/addons/exporters/GLTFExporter.js';
+import { makeCow, makeSheep, makePig } from '/src/lib/animals.js';
+import { makeHuman, addClipboard } from '/src/lib/people.js';
+import { makeTruck } from '/src/lib/vehicles.js';
+import { barn, silo, tree, building, hayBale, lamp, trough, crate, badge } from '/src/lib/props.js';
+import { C } from '/src/lib/kit.js';
+const models = {
+  vaca: () => makeCow({ seed: 4 }).root, oveja: () => makeSheep().root, cerdo: () => makePig().root,
+  persona_trabajador: () => makeHuman({ shirt: '#4f7a9c', pants: '#6b5a44', hat: 'straw', skin: C.skin2 }).root,
+  persona_inspectora: () => { const h = makeHuman({ shirt: '#f0f3f6', pants: '#26405f', vest: C.orange, hat: 'hard', hairStyle: 'long', female: true }); addClipboard(h); return h.root; },
+  camion_ganadero: () => makeTruck().root, granero: () => barn(), silo: () => silo(), arbol: () => tree({ seed: 2 }), edificio: () => building({}),
+  paca: () => hayBale({}), farola: () => lamp({}), comedero: () => trough({}), caja: () => crate({}),
+  insignia_temperatura: () => badge('temp'), insignia_espacio: () => badge('space'), insignia_reloj: () => badge('clock'), insignia_escudo: () => badge('shield'),
+};
+window.exportModel = (name) => new Promise((res) => { const o = models[name](); const s = new THREE.Scene(); s.add(o); new GLTFExporter().parse(s, (buf) => { const b = new Uint8Array(buf); let str = ''; for (let i = 0; i < b.length; i += 0x8000) str += String.fromCharCode.apply(null, b.subarray(i, i + 0x8000)); res(btoa(str)); }, (e) => res('ERR ' + e), { binary: true }); });
+window.modelNames = Object.keys(models); window.__ready = true;
+</script>

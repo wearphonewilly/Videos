@@ -1,0 +1,14 @@
+{
+  "name": "inokuo-reels-3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sistema reutilizable de Reels 3D low-poly (Three.js + GSAP + FFmpeg) para INOKUO Formación",
+  "scripts": {
+    "audio": "python3 tools/make_voice.py && python3 tools/make_audio.py",
+    "preview": "node render/serve.mjs",
+    "frame": "node render/render.mjs --frames",
+    "render": "node render/render.mjs && bash render/mux.sh"
+  },
+  "dependencies": { "three": "^0.180.0", "gsap": "^3.13.0" }
+}
